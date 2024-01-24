@@ -13,7 +13,7 @@ Each chapter from the textbook corresponds to a separate directory in this repos
 - Chapter 2: Statistical Learning
 - Chapter 3: Linear Regression
 - ...
-- Chapter 6: Linear Model Selection and Regularization
+- Chapter 7: Moving Beyond Linearity
 
 Inside each chapter's folder, you will find Jupyter notebooks (.ipynb files) that contain the labs and my solutions (exercises).
 
